@@ -1,3 +1,0 @@
-[submodule "third_party/digilent_boards"]
-	path = third_party/digilent_boards
-	url = git@github.com:Digilent/vivado-boards.git
